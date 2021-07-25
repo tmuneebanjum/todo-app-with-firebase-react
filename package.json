@@ -2,7 +2,7 @@
   "name": "todo_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://tmuneebanjum.github.io/todoapp",
+  "homepage": "http://tmuneebanjum.github.io/todo-app-with-firebase-react",
   "dependencies": {
     "@material-ui/core": "^4.12.2",
     "@testing-library/jest-dom": "^5.14.1",
